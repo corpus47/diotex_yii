@@ -1,0 +1,5 @@
+.checkbox-line input,
+.radio-line input { display: block; float:left; margin-left:-25px; }
+.radio-line input { margin-left:-25px; }
+.checkbox-line input + i,
+.radio-line input + i { display:none; }
